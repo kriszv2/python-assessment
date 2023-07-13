@@ -12,3 +12,8 @@
 ## Tasks
 
 ### [Task 1](Task1_PPTX_report/README.md)
+
+## How to run the application
+
+1. Open Task1_PPTX_report in terminal
+2. in terminal run "python report-task.py sample.json"
